@@ -15,6 +15,13 @@ timeline: true
 
 ---
 
+- 🌟 `Notification`: 新增 foldCount 全局配置属性。
+- 💄 `Step`: 优化Steps组件的导航条样式。
+
+## 1.5.0
+
+`2021-12-02`
+
 - 🌟 拆分 dataset 和 shared 库。
 - 🌟 `ConfigProvider`: 新增 ConfigProvider 组件。
 - 🌟 `hooks`: 新增 useConfig 钩子。
